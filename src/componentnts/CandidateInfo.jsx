@@ -43,7 +43,7 @@ const CandidateInfo = () => {
                         <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>Candidate's name</p>
                     </td>
                     <td style={{ width: '275pt', border: '1pt solid #CCCCCC' }} colSpan="3">
-                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}> ANKIT KUMAR</p>
+                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}> HINASHU SINGH</p>
                     </td>
                 </tr>
                 <tr style={{ height: '30pt' }}>

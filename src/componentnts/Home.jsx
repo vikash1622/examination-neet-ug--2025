@@ -15,10 +15,8 @@ const Home = () => {
                 <title>NEET Result 2025 - Score Card</title>
             </Helmet>
             <Header />
-            <div >
-
-
-                <ActionButtons />
+            <div className='OVER-FLOW' >
+                 <ActionButtons />
                 <p style={{ textIndent: '0pt', textAlign: 'left' }}><br /></p>
                 <CandidateInfo />
                 <p style={{ textIndent: '0pt', textAlign: 'left' }} />

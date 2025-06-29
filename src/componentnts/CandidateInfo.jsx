@@ -70,8 +70,7 @@ const CandidateInfo = () => {
                     </td>
                     <td style={{ width: '89pt', border: '1pt solid #CCCCCC' }}>
                         <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}>NAVAL
-                            KISHOR
-                            BARWA  </p>
+                            KISHOR  </p>
                     </td>
                     <td style={{ width: '96pt', border: '1pt solid #CCCCCC' }}>
                         <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}>Gender</p>
